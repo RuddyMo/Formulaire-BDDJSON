@@ -77,7 +77,7 @@
             <input type="password" name="password" placeholder="Mot de passe" required="required"
                 autocomplete="off"><br>
             <input type="submit" name="submit" value="Connexion" onclick=clearForm()><br>
-            <a href="Inscription.php">Inscription</a>
+            <a href="inscription.php">Inscription</a>
         </form>
         <div class="cu cube1"></div>
         <div class="cu cube2"></div>
